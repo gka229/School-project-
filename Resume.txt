@@ -6,36 +6,39 @@ guerschom.kayembe@uky.edu
 
 Education
 
-Bachelor’s Degree in computer science	          University of Kentucky, Lexington KY 40508
-Minor Certificate in Business Economics
+Associate Degree in Computer Science    Bluegrass Community and Technical College    
+					Lexington, KY 
+					Graduated: December 2017
 
-Senior: Projected Graduation: May 2020
+Bachelor’s Degree in computer science        University of Kentucky, Lexington, KY
+	Minor Certificate in Business Economics
 
-Transfer student from Bluegrass Community and Technical College    
-   Lexington, Kentucky 40508 
-Graduated: December 2017
+					Senior: Projected Graduation: May 2020
 
-Relevant courses: Calculus I and II, Introduction to Computer Programming, Introduction to Programming Design Abstraction/Problem Solving, Statistics, Computer Network
+
+Relevant courses: Calculus I and II, Programming Design Abstraction/Problem Solving, Intro to Database, 
+Computer Network, Intro to Gaming development, Machine Learning. etc
 
 Achievement
 
-•	Co-author of the book “Slowly is the Journey” by Keith Gilberston.
+	•Co-author of the book “Slowly is the Journey” by Keith Gilberston.
 
 Skills
- 
-•	Computer Skills, Knowledge in Microsoft office products including Excel, Power Point and access special software Python, Unix, and C++, C, MySQL
-•	Experience working as a team member.
-•	Fluently speak, write and read French.
-•	Customer services
 
+       Coding: C/C++, Python, HTML, CSS
+       Technologies/Environment: All Microsoft products, Linux, MySQL, GitHub, Jenkins 
+       Languages: English, French, Lingala, Swahili
+ 
 Experience
-	Internship: Central Bank of Congo
-			-Working in the IT department as a software developer 
+	Central Bank of The Congo 
+	Student Intern (Summer 2018)
+			- Worked with the development team to fix bugs in existing app
+			- Worked with Database expert to implement new process in the system
+
 Memberships & Affiliations 
 
-•	Member of African Student Association at University of Kentucky.
-•	Member of BCTC (Bluegrass Community and Technical College ) soccer Team.
-•	Member of Association des Jeunes Congolais (Congolese youth association)
+	•Member of African Student Association at University of Kentucky.
+	•Member of Association des Jeunes Congolais (Congolese youth association)
 
 
 
